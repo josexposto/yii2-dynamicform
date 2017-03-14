@@ -1,6 +1,11 @@
 yii2-dynamicform change Log
 ===========================
 
+version 2.0.4
+----------
+**Date:** 14-Mar-2017
+- Bug #57 #159: Fixed for `kartik-v/yii2-widget-select2`
+
 version 2.0.3 (From dev-master)
 ----------
 **Date:** 14-Mar-2017
