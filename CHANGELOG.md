@@ -1,8 +1,9 @@
 yii2-dynamicform change Log
 ===========================
 
-dev-master
+version 2.0.3 (From dev-master)
 ----------
+**Date:** 14-Mar-2017
 - Enh: Updated composer.json ('symfony/dom-crawler': '~2.8|~3.0' and 'symfony/css-selector': '~2.8|~3.0').
 - Bug #40: Fixed dropDownList reset after insert item.
 - Enh #25: Added enhancements to better support for nested widgets.
