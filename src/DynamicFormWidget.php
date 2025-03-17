@@ -13,6 +13,7 @@ use yii\helpers\Html;
 use yii\helpers\Json;
 use yii\base\InvalidConfigException;
 use Symfony\Component\DomCrawler\Crawler;
+use Symfony\Component\CssSelector\CssSelectorConverter;
 
 /**
  * yii2-dynamicform is widget to yii2 framework to clone form elements in a nested manner, maintaining accessibility.
